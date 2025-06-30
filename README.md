@@ -1,2 +1,2 @@
-# AZAR-AD
-THE NEW STORE
+# Azar
+Azar
